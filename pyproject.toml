@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flickr-oauth"
+version = "1.0.0"
+description = "Modern Flickr OAuth 1.0a authentication and API wrapper using only Python standard library"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.8"
+authors = [
+    {name = "Andy Wallace", email = "andrew.wallace@pobox.com"},
+]
+keywords = ["flickr", "oauth", "api", "photography"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Multimedia :: Graphics",
+]
+
+[project.urls]
+Homepage = "https://github.com/andywallace/flickr-oauth"
+Repository = "https://github.com/andywallace/flickr-oauth"
