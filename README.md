@@ -5,7 +5,7 @@ Modern Flickr OAuth 1.0a authentication and API wrapper for Python. Uses only th
 ## Installation
 
 ```bash
-pip install git+https://github.com/andywallace/flickr-oauth.git
+pip install git+https://github.com/teleportaloo/flickr-oauth.git
 ```
 
 ## Quick start
